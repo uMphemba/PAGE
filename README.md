@@ -2,7 +2,7 @@
 
 A stunning, immersive hero banner for a mindfulness web application with video background, smooth animations, and responsive design.
 
-![Hero Banner Preview](http://umphemba.github.io/PAGE/)
+http://umphemba.github.io/PAGE/
 
 ---
 
